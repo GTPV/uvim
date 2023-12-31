@@ -122,3 +122,6 @@ tags
 [._]*.un~
 
 # End of https://www.toptal.com/developers/gitignore/api/cmake,macos,c++,vim,linux
+
+# Makefile backup files
+Makefile.bak
